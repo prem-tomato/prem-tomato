@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**prem-tomato/prem-tomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to the open-source community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer committed to creating high-quality code and meaningful projects. I believe in continuous learning and collaborating with others to solve complex problems.
+
+- 🔭 Currently working on interesting projects
+- 🌱 Always learning new technologies and best practices
+- 💬 Open to discussing ideas, technologies, and opportunities
+- 📫 Feel free to reach out and connect with me
+
+## 💻 Technical Skills
+
+- **Languages:** JavaScript, Python, Java, TypeScript
+- **Frontend:** React, Vue.js, HTML5, CSS3
+- **Backend:** Node.js, Express, Django
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools & Platforms:** Git, Docker, AWS, GitHub
+
+## 🎯 Featured Projects
+
+### Project 1
+Brief description of an interesting project you've built. Link to repository with the impact it had.
+
+### Project 2
+Description of another notable project showcasing your technical abilities.
+
+### Project 3
+Additional project highlighting different skills or technologies.
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prem-tomato&show_icons=true&theme=radical)
+
+## 🤝 How to Reach Me
+
+- 💼 LinkedIn: [Your LinkedIn Profile]
+- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email: [Your Email]
+- 🌐 Portfolio: [Your Website]
+
+## 🎓 Education & Certifications
+
+- Degree/Certification Name - Institution Name (Year)
+- Additional Certifications
+
+## 💡 Interests & Hobbies
+
+- Technology enthusiast
+- Open-source contributor
+- Problem solver
+- And more...
+
+---
+
+*Last updated: February 2026*
