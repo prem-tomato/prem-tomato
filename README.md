@@ -1,58 +1,98 @@
-# Hi there 👋
-
-Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to the open-source community.
-
-## 🚀 About Me
-
-I'm a developer committed to creating high-quality code and meaningful projects. I believe in continuous learning and collaborating with others to solve complex problems.
-
-- 🔭 Currently working on interesting projects
-- 🌱 Always learning new technologies and best practices
-- 💬 Open to discussing ideas, technologies, and opportunities
-- 📫 Feel free to reach out and connect with me
-
-## 💻 Technical Skills
-
-- **Languages:** JavaScript, Python, Java, TypeScript
-- **Frontend:** React, Vue.js, HTML5, CSS3
-- **Backend:** Node.js, Express, Django
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools & Platforms:** Git, Docker, AWS, GitHub
-
-## 🎯 Featured Projects
-
-### Project 1
-Brief description of an interesting project you've built. Link to repository with the impact it had.
-
-### Project 2
-Description of another notable project showcasing your technical abilities.
-
-### Project 3
-Additional project highlighting different skills or technologies.
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prem-tomato&show_icons=true&theme=radical)
-
-## 🤝 How to Reach Me
-
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Website]
-
-## 🎓 Education & Certifications
-
-- Degree/Certification Name - Institution Name (Year)
-- Additional Certifications
-
-## 💡 Interests & Hobbies
-
-- Technology enthusiast
-- Open-source contributor
-- Problem solver
-- And more...
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="30px" alt="wave"/>
+    Welcome to My GitHub
+  </h1>
+  
+  ✨ **Building amazing things with code** ✨
+  
+  <p>
+    <a href="#about">About</a> •
+    <a href="#projects">Projects</a> •
+    <a href="#skills">Skills</a> •
+    <a href="#connect">Connect</a>
+  </p>
+</div>
 
 ---
 
-*Last updated: February 2026*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Passionate+Developer;Creative+Problem+Solver;Always+Learning;Open+Source+Enthusiast" alt="Typing Animation"/>
+</div>
+
+---
+
+## 🌟 About
+
+<p align="center">
+  <em>Crafting elegant solutions to complex problems.</em>
+  <br/>
+  <sub>💡 Innovative thinker • 🚀 Tech enthusiast • 🎨 Design-focused</sub>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 📌 Project | ✨ Description | 🔗 Link |
+|:---:|:---|:---:|
+| **Project One** | Brief description of your awesome project | [View →](https://github.com/your-username/project-one) |
+| **Project Two** | Brief description of another cool project | [View →](https://github.com/your-username/project-two) |
+| **Project Three** | Brief description of your latest creation | [View →](https://github.com/your-username/project-three) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem-tomatocreate&show_icons=true&theme=transparent&hide_border=true&card_width=300" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-tomatocreate&layout=compact&theme=transparent&hide_border=true&card_width=300" alt="Top Languages"/>
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prem-tomatocreate&style=flat-square&color=6366F1" alt="Profile Views"/>
+  <br/>
+  <sub>⭐ Feel free to star my repositories if you find them useful!</sub>
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <i>Made with ❤️ and ☕</i>
+  </p>
+</div>
