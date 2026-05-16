@@ -32,20 +32,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 📌 Project | ✨ Description | 🔗 Link |
-|:---:|:---|:---:|
-| **Project One** | Brief description of your awesome project | [View →](https://github.com/your-username/project-one) |
-| **Project Two** | Brief description of another cool project | [View →](https://github.com/your-username/project-two) |
-| **Project Three** | Brief description of your latest creation | [View →](https://github.com/your-username/project-three) |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
